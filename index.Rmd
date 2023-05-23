@@ -2,4 +2,14 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+```{r load packages, echo=FALSE, warning=FALSE}
+library(fontawesome)
+```
+
+Hi, I'm Sarah.
+
+Let's add a picture here
+
+![](latte_smile.jpg){width=20%}
+
+`r fa(name = "r-project")`

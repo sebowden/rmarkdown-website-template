@@ -2,6 +2,4 @@
 title: "About me"
 ---
 
-## Header
-
-Say more about you here.
+I am the lead data scientist in the Office of Innovation, Development, Evaluation, and Analytics (IDEA) in the Division of Global Migration and Quarantine (DGMQ) at the Centers for Disease Control and Prevention (CDC).
